@@ -1,15 +1,5 @@
-# Flutter Kid Starter
+# Flutter Maninka app
 
-This is my very first Flutter app. During the COVID-19 situation where all workplaces and schools were closed. My kids were switch to home-based learning, and so do I... but with Flutter :)
-
-## Screenshots
-
-<div align="center">
-  <img src="screenshots/ss1.png" width="400px" />
-  <img src="screenshots/ss2.png" width="400px" />
-  <img src="screenshots/ss3.png" width="400px" />
-  <img src="screenshots/ss4.png" width="400px" />
-</div>
 
 ## Getting Started
 
